@@ -19,3 +19,18 @@ export const formcontrol = [{
 
     }
 ]
+export const logincontrols = [{
+        name: 'email',
+        placeholder: 'enter your email',
+        type: 'email',
+        componenttype: 'input'
+
+    },
+    {
+        name: 'password',
+        placeholder: 'enter your password',
+        type: 'password',
+        componenttype: 'input'
+
+    }
+]
